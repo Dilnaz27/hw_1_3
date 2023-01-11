@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hw_1_3</string>
+    <string name="enter_your_gmail">Enter your gmail</string>
+    <string name="theme">Theme</string>
+    <string name="enter_your_text">Enter your text</string>
+    <string name="send">SEND</string>
+</resources>
